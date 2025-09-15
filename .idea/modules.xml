@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Workspace.iml" filepath="$PROJECT_DIR$/.idea/Java_Workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectTest/ObjectTest.iml" filepath="$PROJECT_DIR$/ObjectTest/ObjectTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class2/class2.iml" filepath="$PROJECT_DIR$/class2/class2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class3/class3.iml" filepath="$PROJECT_DIR$/class3/class3.iml" />
       <module fileurl="file://$PROJECT_DIR$/hw1/hw1.iml" filepath="$PROJECT_DIR$/hw1/hw1.iml" />
     </modules>
   </component>
