@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AssociationTest/AssociationTest.iml" filepath="$PROJECT_DIR$/AssociationTest/AssociationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW5/HW5.iml" filepath="$PROJECT_DIR$/HW5/HW5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW5-2/HW5-2.iml" filepath="$PROJECT_DIR$/HW5-2/HW5-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Workspace.iml" filepath="$PROJECT_DIR$/.idea/Java_Workspace.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectTest/ObjectTest.iml" filepath="$PROJECT_DIR$/ObjectTest/ObjectTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecursiveTest/RecursiveTest.iml" filepath="$PROJECT_DIR$/RecursiveTest/RecursiveTest.iml" />
